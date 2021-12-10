@@ -3,7 +3,8 @@
 
 
 <h1>Hi 👋, I'm Ayça.</h1>
-<p >A passionate computer engineer from Turkey. I am interested on frontend development, web design and cloud computing. And curently improving in these areas. Also I am co-founder of Çalıbahçe which is an E-commerce market about sustainable farming. </p>
+<!--
+<p >I  am computer engineer from Turkey. I am interested on frontend development, web design and cloud computing. And curently improving in these areas. Also I am co-founder of Çalıbahçe which is an E-commerce market about sustainable farming. </p> -->
 
 
 
