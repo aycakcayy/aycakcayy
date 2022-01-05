@@ -1,8 +1,8 @@
-
-  <h1 >Hi there 👋, I'm Ayça.</h1>
+<img src="https://media.giphy.com/media/ny7UCd6JETnmE/giphy.gif" align="right" width="400" height="280" >
+<h2 >Hi there 👋, I'm Ayça.</h2>
 <h3 >A passionate engineer from Turkey.</h3>
 
-<img src="https://media.giphy.com/media/ny7UCd6JETnmE/giphy.gif" >
+
  
   - ✨Engineer at @TurkTelekom  
   - ✨Student at @UpSchool       
@@ -15,9 +15,11 @@
 
 
 
-### Blogs posts
+### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
