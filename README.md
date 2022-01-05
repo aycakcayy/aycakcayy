@@ -1,6 +1,6 @@
 
-  <h1 align="center">Hi 👋, I'm Ayça.</h1>
-<h3 align="center">A passionate engineer from Turkey.</h3>
+  <h1 >Hi there 👋, I'm Ayça.</h1>
+<h3 >A passionate engineer from Turkey.</h3>
  
   - ✨Engineer at @TurkTelekom  
   - ✨Student at @UpSchool       
