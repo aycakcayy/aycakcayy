@@ -1,6 +1,8 @@
 
   <h1 >Hi there 👋, I'm Ayça.</h1>
 <h3 >A passionate engineer from Turkey.</h3>
+
+<img src="https://media.giphy.com/media/ny7UCd6JETnmE/giphy.gif" >
  
   - ✨Engineer at @TurkTelekom  
   - ✨Student at @UpSchool       
