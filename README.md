@@ -7,7 +7,7 @@
   - ✨Student at @UpSchool       
   - ✨Co-founder of [Calibahce](https://calibahce.com/)   
 
-<hr/>
+
 
 - 👨‍💻 I’m currently working on **Cloud computing, DevOps**
 - 🌱  I’m currently learning **React.js**
