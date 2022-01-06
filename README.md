@@ -9,8 +9,8 @@
   - ✨Co-founder of @Calibahce    
 
 
- 👨‍💻 I’m currently working on **Cloud computing, DevOps**  
- 🌱 I’m currently learning **React.js** 
+ <p> 👨‍💻 I’m currently working on **Cloud computing, DevOps** </p>
+ 🌱  I’m currently learning **React.js** 
  📝 I write articles on [medium](https://aycaakcay.medium.com/) 
 
 
