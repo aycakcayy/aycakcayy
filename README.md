@@ -2,12 +2,11 @@
 <h2 >Hi there 👋, I'm Ayça.</h2>
 <h3 >A passionate engineer from Turkey.</h3>
 
-
  
-  - ✨Engineer at @TurkTelekom  
-  - ✨Student at @UpSchool       
-  - ✨Co-founder of @Calibahce    
-
+  <p> ✨Engineer at @TurkTelekom  </p>
+  <p> ✨Student at @UpSchool       </p>
+  <p> ✨Co-founder of @Calibahce    </p>
+<hr/>
 
 <p>👨‍💻 I’m currently working on **Cloud computing, DevOps** </p>
 <p>🌱  I’m currently learning **React.js** </p>
