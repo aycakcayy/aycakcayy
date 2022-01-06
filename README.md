@@ -11,7 +11,7 @@
 
 <p>👨‍💻 I’m currently working on **Cloud computing, DevOps** </p>
 <p>🌱  I’m currently learning **React.js** </p>
-<p>📝 I write articles on [Medium](https://aycaakcay.medium.com/) </p>
+<p>📝 I write articles on [medium](https://aycaakcay.medium.com/) </p>
 
 
 
