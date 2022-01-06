@@ -3,14 +3,15 @@
 <h3 >A passionate engineer from Turkey.</h3>
 
  
-  <p> ✨Engineer at @TurkTelekom  </p>
-  <p> ✨Student at @UpSchool       </p>
-  <p> ✨Co-founder of @Calibahce    </p>
+  - ✨Engineer at @TurkTelekom  
+  - ✨Student at @UpSchool       
+  - ✨Co-founder of [Calibahce](https://calibahce.com/)   
+
 <hr/>
 
-<p>👨‍💻 I’m currently working on **Cloud computing, DevOps** </p>
-<p>🌱  I’m currently learning **React.js** </p>
-<p>📝 I write articles on [medium](https://aycaakcay.medium.com/) </p>
+- 👨‍💻 I’m currently working on **Cloud computing, DevOps**
+- 🌱  I’m currently learning **React.js**
+- 📝 I write articles on [Medium](https://aycaakcay.medium.com/) 
 
 
 
