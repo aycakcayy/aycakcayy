@@ -17,11 +17,11 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [JSX Nedir?](https://aycaakcay.medium.com/jsx-nedir-7f014fabe31e?source=rss-7b35a05877bf------2)
 - [Bootstrap Nedir?](https://aycaakcay.medium.com/bootstrap-nedir-b183e8274cd8?source=rss-7b35a05877bf------2)
 - [Responsive Tasarım Nedir?](https://aycaakcay.medium.com/responsive-tasar%C4%B1m-nedir-3c9b789967ad?source=rss-7b35a05877bf------2)
 - [Çevik&lpar;Agile&rpar; Yazılım Geliştirme](https://aycaakcay.medium.com/%C3%A7evik-agile-yaz%C4%B1l%C4%B1m-geli%C5%9Ftirme-7cbcb97c32eb?source=rss-7b35a05877bf------2)
 - [Günümüzde DevOps Yaklaşımı&lpar;CI/CD Pipeline&rpar;](https://medium.com/t%C3%BCrk-telekom-bulut-teknolojileri/g%C3%BCn%C3%BCm%C3%BCzde-devops-yakla%C5%9F%C4%B1m%C4%B1-ci-cd-pipeline-bbbc32d1fdb6?source=rss-7b35a05877bf------2)
-- [Container Teknolojileri](https://medium.com/t%C3%BCrk-telekom-bulut-teknolojileri/container-teknolojileri-cfeb22e1de66?source=rss-7b35a05877bf------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
