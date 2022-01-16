@@ -4,7 +4,6 @@
   - ✨Engineer at @TurkTelekom  
   - ✨Student at @UpSchool       
   - ✨Co-founder of [Calibahce](https://calibahce.com/)   
-  - 
 - 👨‍💻 I’m currently working on **Cloud computing, DevOps**
 - 🌱  I’m currently learning **React.js**
 - 📝 I write articles on [Medium](https://aycaakcay.medium.com/) 
