@@ -3,7 +3,7 @@
  
   - ✨DevOps Engineer at Turk Telekom       
   - ✨Co-founder of [Calibahce](https://calibahce.com/)   
-- 🌱  I’m currently learning **React.js**
+- 🌱  Currently learning **React.js**
 
 
 ### Latest Blogs posts
