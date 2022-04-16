@@ -1,10 +1,10 @@
 <img src="https://media.giphy.com/media/ny7UCd6JETnmE/giphy.gif" align="right" width="400" height="280" >
 <h2 >Hi there 👋, I'm Ayça.</h2>
  
-  - ✨Cloud Engineer at Turk Telekom       
+  - ✨Cloud Operations Engineer at Turk Telekom       
   - ✨Co-founder of [Calibahce](https://calibahce.com/)   
 - 🌱  I’m currently learning **React.js**
-- 📝 I write articles on [Medium](https://aycaakcay.medium.com/) 
+
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
