@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/ny7UCd6JETnmE/giphy.gif" align="right" width="400" height="280" >
 <h2 >Hi there 👋, I'm Ayça.</h2>
  
-  - ✨Cloud Operations Engineer at Turk Telekom       
+  - ✨DevOps Engineer at Turk Telekom       
   - ✨Co-founder of [Calibahce](https://calibahce.com/)   
 - 🌱  I’m currently learning **React.js**
 
