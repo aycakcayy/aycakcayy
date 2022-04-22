@@ -8,11 +8,11 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Installing Argo CD CLI and Adding Cluster](https://medium.com/t%C3%BCrk-telekom-bulut-teknolojileri/installing-argo-cd-cli-and-adding-cluster-dca5cf1fbe5d?source=rss-7b35a05877bf------2)
 - [GitOps &amp; ArgoCD](https://medium.com/t%C3%BCrk-telekom-bulut-teknolojileri/gitops-argocd-932b7fa3792f?source=rss-7b35a05877bf------2)
 - [Potansiyeli Ortaya Çıkarmak](https://aycaakcay.medium.com/potansiyeli-ortaya-%C3%A7%C4%B1karmak-6b8786aa3630?source=rss-7b35a05877bf------2)
 - [JSX Nedir?](https://aycaakcay.medium.com/jsx-nedir-7f014fabe31e?source=rss-7b35a05877bf------2)
 - [Bootstrap Nedir?](https://aycaakcay.medium.com/bootstrap-nedir-b183e8274cd8?source=rss-7b35a05877bf------2)
-- [Responsive Tasarım Nedir?](https://aycaakcay.medium.com/responsive-tasar%C4%B1m-nedir-3c9b789967ad?source=rss-7b35a05877bf------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
