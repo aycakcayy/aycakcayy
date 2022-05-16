@@ -8,7 +8,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [GitOps ve ArgoCD Hakkında](https://aycaakcay.medium.com/gitops-ve-argocd-hakk%C4%B1nda-e7187b95b5ca?source=rss-7b35a05877bf------2)
+- [Nedenleriyle GitOps ve ArgoCD](https://medium.com/t%C3%BCrk-telekom-bulut-teknolojileri/gitops-ve-argocd-hakk%C4%B1nda-e7187b95b5ca?source=rss-7b35a05877bf------2)
 - [Installing Argo CD CLI and Adding Cluster](https://medium.com/t%C3%BCrk-telekom-bulut-teknolojileri/installing-argo-cd-cli-and-adding-cluster-dca5cf1fbe5d?source=rss-7b35a05877bf------2)
 - [GitOps &amp; ArgoCD](https://medium.com/t%C3%BCrk-telekom-bulut-teknolojileri/gitops-argocd-932b7fa3792f?source=rss-7b35a05877bf------2)
 - [Potansiyeli Ortaya Çıkarmak](https://aycaakcay.medium.com/potansiyeli-ortaya-%C3%A7%C4%B1karmak-6b8786aa3630?source=rss-7b35a05877bf------2)
