@@ -7,7 +7,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Argo Rollouts](https://aycaakcay.medium.com/argo-rollouts-c0204be2817a?source=rss-7b35a05877bf------2)
+- [Argo Rollouts](https://medium.com/t%C3%BCrk-telekom-bulut-teknolojileri/argo-rollouts-c0204be2817a?source=rss-7b35a05877bf------2)
 - [Nedenleriyle GitOps ve ArgoCD](https://medium.com/t%C3%BCrk-telekom-bulut-teknolojileri/gitops-ve-argocd-hakk%C4%B1nda-e7187b95b5ca?source=rss-7b35a05877bf------2)
 - [Installing ArgoCD CLI and Adding Cluster](https://medium.com/t%C3%BCrk-telekom-bulut-teknolojileri/installing-argo-cd-cli-and-adding-cluster-dca5cf1fbe5d?source=rss-7b35a05877bf------2)
 - [GitOps &amp; ArgoCD](https://medium.com/t%C3%BCrk-telekom-bulut-teknolojileri/gitops-argocd-932b7fa3792f?source=rss-7b35a05877bf------2)
