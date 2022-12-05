@@ -8,7 +8,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [ArgoCD Senkronizasyon Stratejileri](https://medium.com/t%C3%BCrk-telekom-bulut-teknolojileri/argocd-senkronizasyon-stratejileri-bead30c44ed0?source=rss-7b35a05877bf------2)
 - [DevOps VS SRE](https://medium.com/t%C3%BCrk-telekom-bulut-teknolojileri/devops-vs-sre-23240f2b0c58?source=rss-7b35a05877bf------2)
-- [Argo CD Kurulumu ve Uygulama Oluşturma](https://medium.com/t%C3%BCrk-telekom-bulut-teknolojileri/argo-cd-kurulumu-ve-uygulama-olu%C5%9Fturma-a506f460c9c8?source=rss-7b35a05877bf------2)
+- [ArgoCD Kurulumu ve Uygulama Deploy Etme](https://medium.com/t%C3%BCrk-telekom-bulut-teknolojileri/argo-cd-kurulumu-ve-uygulama-olu%C5%9Fturma-a506f460c9c8?source=rss-7b35a05877bf------2)
 - [Argo Rollouts](https://medium.com/t%C3%BCrk-telekom-bulut-teknolojileri/argo-rollouts-c0204be2817a?source=rss-7b35a05877bf------2)
 - [Nedenleriyle GitOps ve ArgoCD](https://medium.com/t%C3%BCrk-telekom-bulut-teknolojileri/gitops-ve-argocd-hakk%C4%B1nda-e7187b95b5ca?source=rss-7b35a05877bf------2)
 <!-- BLOG-POST-LIST:END -->
