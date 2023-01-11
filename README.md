@@ -6,7 +6,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [HELM](https://aycaakcay.medium.com/helm-1e347bd9bbd4?source=rss-7b35a05877bf------2)
+- [HELM](https://medium.com/t%C3%BCrk-telekom-bulut-teknolojileri/helm-1e347bd9bbd4?source=rss-7b35a05877bf------2)
 - [ArgoCD App of Apps Pattern](https://medium.com/t%C3%BCrk-telekom-bulut-teknolojileri/argocd-app-of-apps-pattern-ca6caf52a9bc?source=rss-7b35a05877bf------2)
 - [ArgoCD Senkronizasyon Stratejileri](https://medium.com/t%C3%BCrk-telekom-bulut-teknolojileri/argocd-senkronizasyon-stratejileri-bead30c44ed0?source=rss-7b35a05877bf------2)
 - [DevOps VS SRE](https://medium.com/t%C3%BCrk-telekom-bulut-teknolojileri/devops-vs-sre-23240f2b0c58?source=rss-7b35a05877bf------2)
