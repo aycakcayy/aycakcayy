@@ -6,7 +6,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Etkili bir Devops için CI ve CD süreçlerini birbirinden ayırmak](https://aycaakcay.medium.com/etkili-bir-devops-i%C3%A7in-ci-ve-cd-s%C3%BCre%C3%A7lerini-birbirinden-ay%C4%B1rmak-ef54fc59556c?source=rss-7b35a05877bf------2)
+- [Etkili bir Devops için CI ve CD süreçlerini birbirinden ayırmak](https://medium.com/t%C3%BCrk-telekom-bulut-teknolojileri/etkili-bir-devops-i%C3%A7in-ci-ve-cd-s%C3%BCre%C3%A7lerini-birbirinden-ay%C4%B1rmak-ef54fc59556c?source=rss-7b35a05877bf------2)
 - [HELM](https://medium.com/t%C3%BCrk-telekom-bulut-teknolojileri/helm-1e347bd9bbd4?source=rss-7b35a05877bf------2)
 - [ArgoCD App of Apps Pattern](https://medium.com/t%C3%BCrk-telekom-bulut-teknolojileri/argocd-app-of-apps-pattern-ca6caf52a9bc?source=rss-7b35a05877bf------2)
 - [ArgoCD Senkronizasyon Stratejileri](https://medium.com/t%C3%BCrk-telekom-bulut-teknolojileri/argocd-senkronizasyon-stratejileri-bead30c44ed0?source=rss-7b35a05877bf------2)
