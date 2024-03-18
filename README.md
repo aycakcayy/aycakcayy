@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/ny7UCd6JETnmE/giphy.gif" align="right" width="300" height="180" >
+<img src="https://media.giphy.com/media/ny7UCd6JETnmE/giphy.gif" align="right" margin-top="10px" width="300" height="180" >
 <h2 >Hi there 👋, I'm Ayça.</h2>
  
   - ✨DevOps Engineer at Turk Telekom        
