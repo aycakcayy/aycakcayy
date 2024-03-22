@@ -6,11 +6,11 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [CoSign | Container İmzalama](https://aycaakcay.medium.com/cosign-container-i%CC%87mzalama-94fde7e13931?source=rss-7b35a05877bf------2)
 - [Etkili bir Devops için CI ve CD Süreçlerini birbirinden ayırmak](https://medium.com/t%C3%BCrk-telekom-bulut-teknolojileri/etkili-bir-devops-i%C3%A7in-ci-ve-cd-s%C3%BCre%C3%A7lerini-birbirinden-ay%C4%B1rmak-ef54fc59556c?source=rss-7b35a05877bf------2)
 - [HELM](https://medium.com/t%C3%BCrk-telekom-bulut-teknolojileri/helm-1e347bd9bbd4?source=rss-7b35a05877bf------2)
 - [ArgoCD App of Apps Pattern](https://medium.com/t%C3%BCrk-telekom-bulut-teknolojileri/argocd-app-of-apps-pattern-ca6caf52a9bc?source=rss-7b35a05877bf------2)
 - [ArgoCD Senkronizasyon Stratejileri](https://medium.com/t%C3%BCrk-telekom-bulut-teknolojileri/argocd-senkronizasyon-stratejileri-bead30c44ed0?source=rss-7b35a05877bf------2)
-- [DevOps VS SRE](https://medium.com/t%C3%BCrk-telekom-bulut-teknolojileri/devops-vs-sre-23240f2b0c58?source=rss-7b35a05877bf------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
