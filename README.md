@@ -6,11 +6,11 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Gitlab Duo](https://medium.com/t%C3%BCrk-telekom-bulut-teknolojileri/gitlab-duo-85e164ba2f0d?source=rss-7b35a05877bf------2)
 - [ArgoCD vs Flux](https://medium.com/t%C3%BCrk-telekom-bulut-teknolojileri/argocd-vs-flux-e4db436e122f?source=rss-7b35a05877bf------2)
 - [GitLab CI/CD](https://medium.com/t%C3%BCrk-telekom-bulut-teknolojileri/gitlab-ci-cd-47b5f9186f38?source=rss-7b35a05877bf------2)
 - [CoSign | Container İmzalama](https://medium.com/t%C3%BCrk-telekom-bulut-teknolojileri/cosign-container-i%CC%87mzalama-94fde7e13931?source=rss-7b35a05877bf------2)
 - [Etkili bir Devops için CI ve CD Süreçlerini birbirinden ayırmak](https://medium.com/t%C3%BCrk-telekom-bulut-teknolojileri/etkili-bir-devops-i%C3%A7in-ci-ve-cd-s%C3%BCre%C3%A7lerini-birbirinden-ay%C4%B1rmak-ef54fc59556c?source=rss-7b35a05877bf------2)
-- [HELM](https://medium.com/t%C3%BCrk-telekom-bulut-teknolojileri/helm-1e347bd9bbd4?source=rss-7b35a05877bf------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
